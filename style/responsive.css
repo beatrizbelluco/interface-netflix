@@ -1,0 +1,30 @@
+@media screen and (max-width:700px){
+    header .container{
+    display: flex;
+    }
+
+    header nav a{
+        margin-left: 1px;
+        margin-right: 10px;
+    }
+    header .logo{
+    padding-right: 10px;
+}
+    .logo-poster{
+    width: 80%;
+    margin-bottom: 1rem;
+}
+
+    .botao{
+        margin-top: 5px;
+        width: 110px;
+        font-size: 13px;
+    }
+
+}
+
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+}
