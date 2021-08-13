@@ -46,7 +46,7 @@ header nav a:hover{
 /*poster principal*/
 .main-poster{
     font-size: 1rem; 
-    background-image: linear-gradient(to left, rgba(0,0,0,.50), rgba(0,0,0,.50)), url(poster-principal.jpg);   
+    background-image: linear-gradient(to left, rgba(0,0,0,.50), rgba(0,0,0,.50)), url(../style/poster-principal.jpg);   
     background-size: cover;
     background-position: 40% 55%;
     height: 90vh;
